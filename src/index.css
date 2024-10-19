@@ -13,7 +13,7 @@
     margin: 0 auto;
 }
 .Headersec{
-  background-image: url(public/imgs/Rectangle\ 75.png);
+  background-image: url(/imgs/Rectangle\ 75.png);
   padding: 0px 0 25px 0;
   margin-bottom: 100px;
 }
@@ -39,7 +39,7 @@
 }
 
 .header-banner-main {
-    background-image: url(public/imgs/banner2.jpg);
+    background-image: url(/imgs/banner2.jpg);
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -196,7 +196,7 @@
     }
 
     .products-card {
-        background-image: url(public/imgs/Rectangle\ 69.png);
+        background-image: url(/imgs/Rectangle\ 69.png);
         padding: 30px;
         border-radius: 4px;
         width: 100%;
@@ -254,7 +254,7 @@
     /* ////////////////////////////////////////////////////////////// */
 
     .Blog {
-        background-image: url(public/imgs/blog.jpg);
+        background-image: url(/imgs/blog.jpg);
         /* background-attachment: fixed; */
         background-repeat: no-repeat;
         background-size: cover;
@@ -365,7 +365,7 @@
     /* //////////////////////// about ////////////// */
 
     .about {
-        background-image: url(public/imgs/explore.jpg);
+        background-image: url(/imgs/explore.jpg);
         background-repeat: no-repeat;
         /* background-attachment: fixed; */
         background-size: cover;
@@ -389,7 +389,7 @@
 
     /* ////////////////////////////////////////////////////////// */
     footer {
-        background-image: url(public/imgs/Rectangle\ 75.png);
+        background-image: url(/imgs/Rectangle\ 75.png);
         padding-top: 50px;
         padding-bottom: 50px;
     }
@@ -1086,7 +1086,7 @@
 } */
 
 .products-card-1 {
-    background-image: url(public/imgs/Rectangle\ 69.png);
+    background-image: url(/imgs/Rectangle\ 69.png);
     /* margin-left: 20px; */
     padding: 20px;
     border-radius: 6px;

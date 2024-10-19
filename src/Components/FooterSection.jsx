@@ -73,7 +73,7 @@ function FooterSection(){
                                 <h2>Recent News</h2>
                                 <div className="footer-bottom-3-center">
                                     <div className="footer-bottom-3-left">
-                                        <img src="public/imgs/Rectangle 157.png" alt=""/>
+                                        <img src="/imgs/Rectangle 157.png" alt=""/>
                                     </div>
                                     <div className="footer-bottom-3-right">
                                         <p>June 14,2024</p>
@@ -82,7 +82,7 @@ function FooterSection(){
                                 </div>
                                 <div className="footer-bottom-3-center">
                                     <div className="footer-bottom-3-left">
-                                        <img src="public/imgs/Rectangle 158.png" alt=""/>
+                                        <img src="/imgs/Rectangle 158.png" alt=""/>
                                     </div>
                                     <div className="footer-bottom-3-right">
                                         <p>June 14,2024</p>
