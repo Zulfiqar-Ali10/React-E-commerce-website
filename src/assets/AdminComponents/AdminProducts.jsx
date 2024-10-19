@@ -46,7 +46,7 @@ function AdminProducts(){
             <div className="admin-bottom-right">
                 <div className="products-section-1">
                     <div className="products-card-1">
-                        <img src="src/imgs/free-photo-of-danish-pastry-with-jam-removebg-preview 1.png" alt="" />
+                        <img src="public/imgs/free-photo-of-danish-pastry-with-jam-removebg-preview 1.png" alt="" />
                         <p>$40</p>
                         <div className="products-center-1">
                             <h3>Whole Grain

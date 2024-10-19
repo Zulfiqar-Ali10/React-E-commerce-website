@@ -8,37 +8,37 @@ function ProductsSection() {
     const products = [
         {
             id: 1,
-            image: "src/imgs/free-photo-of-danish-pastry-with-jam-removebg-preview 1.png",
+            image: "public/imgs/free-photo-of-danish-pastry-with-jam-removebg-preview 1.png",
             price: 40,
             name: "Whole Grain Bread"
         },
         {
             id: 2,
-            image: "src/imgs/photo2.png",
+            image: "public/imgs/photo2.png",
             price: 50,
             name: "Whole Boule Bread"
         },
         {
             id: 3,
-            image: "src/imgs/photo4.png",
+            image: "public/imgs/photo4.png",
             price: 60,
             name: "Whole Baguette"
         },
         {
             id: 4,
-            image: "src/imgs/p4.png",
+            image: "public/imgs/p4.png",
             price: 30,
             name: "Whole Batard Bread"
         },
         {
             id: 5,
-            image: "src/imgs/p5.png",
+            image: "public/imgs/p5.png",
             price: 70,
             name: "Whole Focaccia Bread"
         },
         {
             id: 6,
-            image: "src/imgs/p6.png",
+            image: "public/imgs/p6.png",
             price: 90,
             name: "Whole Lavesh Bread"
         }
